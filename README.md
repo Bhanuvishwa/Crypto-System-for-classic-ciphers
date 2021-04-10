@@ -2,7 +2,7 @@
 
 ## Working:
 
-1. Executing '''BASE_crypt.py''' gives you an output which lists out various crypto techniques and enables user to choose one of them.
+1. Executing BASE_crypt.py gives you an output which lists out various crypto techniques and enables user to choose one of them.
 
 2. After choosing a technique user will be asked to encode/decode.
 
